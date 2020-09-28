@@ -1,0 +1,8 @@
+10-05-2018: Mazinho
+Criar um pedido de pre-compra analisando as ultimas vendas
+Ex: verificar as ultimas vendas de um produto { Ver a media e projetar para compras nos proximos 2 meses }
+isso feito por grupo e por fabricante
+
+No relatorio de posicao de vendas mudar a vendas de deposito em conta para logo depois do dinheiro
+
+- Atacado carlos Endereco de produtos por filial

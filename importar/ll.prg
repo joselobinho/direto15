@@ -1,0 +1,5 @@
+clear
+
+use contarec
+
+browse()

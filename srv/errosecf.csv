@@ -1,0 +1,58 @@
+1;status;1;daruma;Em MIT (Ligado com o jumper aberto)
+2;status;1;daruma;MF esgotada ou em erro irrecuperável
+3;status;1;daruma;MFDE esgotada ou em erro irrecuperável
+4;status;0;daruma;Dia fiscal não aberto
+5;status;1;daruma;Já emitiu RZ não pendente hoje
+6;status;1;daruma;RZ do dia anterior pendente
+7;status;1;daruma;Near End detectado
+8;status;1;daruma;Bobina de papel ausente
+9;status;1;daruma;Gaveta aberta
+10;status;1;daruma;Não há cheque posicionado
+11;status;1;daruma;ECF Off Line
+12;status;1;daruma;Algum documento aberto
+13;status;1;daruma;Aguardando papel
+14;status;1;daruma;Aguardando posicionamento do documento
+15;status;1;daruma;Aguardando posicionamento do cheque
+16;status;1;daruma;Aguardando remoção do cheque/documento
+17;status;1;daruma;Tampa aberta
+18;status;1;daruma;Tampa de cabeça térmica aberta
+0;erro;;daruma;Erro durante a execução
+-1;erro;;daruma;Erro do Método
+-2;erro;;daruma;Parâmetro incorreto
+-3;erro;;daruma;Alíquota (Situação tributária) não programada
+-4;erro;;daruma;Chave do Registry não encontrada
+-5;erro;;daruma;Erro ao Abrir a porta de Comunicação
+-6;erro;;daruma;Impressora Desligada
+-7;erro;;daruma;Erro no Número do Banco
+-8;erro;;daruma;Erro ao Gravar as informações no arquivo de Status ou de Retorno de Info
+-9;erro;;daruma;Erro ao Fechar a porta de Comunicação
+-10;erro;;daruma;O ECF não tem a forma de pagamento e não permite cadastrar esta forma
+-12;erro;;daruma;A função executou o comando porém o ECF sinalizou Erro, chame a rStatusUltimoCmdInt_ECF_Daruma para identificar o Erro
+-24;erro;;daruma;Forma de Pagamento não Programada
+-25;erro;;daruma;Totalizador nao ECF Não Vinculado não Programado
+-27;erro;;daruma;Foi Detectado Erro ou Warning na Impressora
+-28;erro;;daruma;Time-Out
+-40;erro;;daruma;Tag XML Inválida
+-50;erro;;daruma;Problemas ao Criar Chave no Registry
+-51;erro;;daruma;Erro ao Gravar LOG
+-52;erro;;daruma;Erro ao abrir arquivo
+-53;erro;;daruma;Fim de arquivo
+-60;erro;;daruma;Erro na tag de formatação DHTML
+-90;erro;;daruma;Erro Configurar a Porta de Comunicação
+-99;erro;;daruma;Parâmetro inválido ou ponteiro nulo de parâmetro
+-101;erro;;daruma;Erro ao LER ou ESCREVER arquivo
+-102;erro;;daruma;Erro arquivo corrompido
+-103;erro;;daruma;Não foram encontradas as DLLs auxiliares (lebin.dll e LeituraMFDBin.dll)
+-104;erro;;daruma;Data informada é inferior ao primeiro documento emitido
+-105;erro;;daruma;Data informada é maior que a ultima redução Z impressa
+-106;erro;;daruma;Nao possui movimento fiscal
+-107;erro;;daruma;Porta de comunicação ocupada
+-110;erro;;daruma;Indica que o GT foi atualizado no arquivo de registro do PAF
+-112;erro;;daruma;O numero de serie ja existe no arquivo do PAF
+-113;erro;;daruma;ECF conectado nao cadastrado no arquivo do PAF
+-114;erro;;daruma;MFD Danificada
+-115;erro;;daruma;Erro ao abrir arquivos .idx/.dat/.mf
+-116;erro;;daruma;Intervalo solicitado não é válido
+-117;erro;;daruma;Impressora não identificada durante download dos binários
+-118;erro;;daruma;Erro ao abrir porta serial
+-119;erro;;daruma;Leitura dos binários abortada

@@ -1,0 +1,22 @@
+Madeirini
+Impressao de expedicao IMPRESSORA { epson }
+
+Pedido.: 0000000032422  07/11/2017 20:45:45
+Cliente: ASDFASFDSFD
+
+Descricao dos produtos
+Quantidade UN  Fabricante    Endereco      SALDO
+------------------------------------------------
+MDF BC TX 2F 15MM DURATEX
+    1.0000 CH  DURATEX                        -5
+------------------------------------------------
+Vendedor: lykos
+
+
+
+
+
+
+
+
+

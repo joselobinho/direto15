@@ -1,0 +1,99 @@
+101|Tributada pelo Simples Nacional com permissão de crédito|Optante Pelo Simples Nacional
+102|Tributada pelo Simples Nacional sem permissão de crédito|Optante Pelo Simples Nacional
+103|Isenção do ICMS no Simples Nacional para faixa de receita bruta|Optante Pelo Simples Nacional
+201|Tributada pelo Simples Nacional com permissão de crédito e com cobrança do ICMS por substituição tributária|Optante Pelo Simples Nacional
+202|Tributada pelo Simples Nacional sem permissão de crédito e com cobrança do ICMS por substituição tributária|Optante Pelo Simples Nacional
+203|Isenção do ICMS no Simples Nacional para faixa de receita bruta e com cobrança do ICMS por substituição tributária|Optante Pelo Simples Nacional
+300|Imune|Optante Pelo Simples Nacional
+400|Não tributada pelo Simples Nacional|Optante Pelo Simples Nacional
+500|ICMS cobrado anteriormente por substituição tributária (substituído) ou por antecipação|Optante Pelo Simples Nacional
+900|Nacional Outros|Optante Pelo Simples Nacional
+00|Tributada integralmente|Nacional, exceto as indicadas nos códigos 3 a 5;
+10|Tributada e com cobrança do ICMS por ST|Nacional, exceto as indicadas nos códigos 3 a 5;
+20|Com redução de base de cálculo|Nacional, exceto as indicadas nos códigos 3 a 5;
+30|Isenta/Não tributada e com cobrança do ICMS por ST|Nacional, exceto as indicadas nos códigos 3 a 5;
+40|Isenta |Nacional, exceto as indicadas nos códigos 3 a 5;
+41|Não Tributada|Nacional, exceto as indicadas nos códigos 3 a 5;
+50|Suspensão|Nacional, exceto as indicadas nos códigos 3 a 5;
+51|Diferimento|Nacional, exceto as indicadas nos códigos 3 a 5;
+60|ICMS   Cobrado Anteriormente por ST|Nacional, exceto as indicadas nos códigos 3 a 5;
+70|Com redução de base de cálculo cobrança do ICMS por ST|Nacional, exceto as indicadas nos códigos 3 a 5;
+90|Outras|Nacional, exceto as indicadas nos códigos 3 a 5;
+300|Tributada integralmente|Nacional, mercadoria ou bem com Conteúdo de Importação superior a  40%
+310|Tributada e com cobrança do ICMS por ST|Nacional, mercadoria ou bem com Conteúdo de Importação superior a  40%
+320|Com redução de base de cálculo|Nacional, mercadoria ou bem com Conteúdo de Importação superior a  40%
+330|Isenta/Não tributada e com cobrança do ICMS por ST|Nacional, mercadoria ou bem com Conteúdo de Importação superior a  40%
+340|Isenta |Nacional, mercadoria ou bem com Conteúdo de Importação superior a  40%
+341|Não Tributada|Nacional, mercadoria ou bem com Conteúdo de Importação superior a  40%
+350|Suspensão|Nacional, mercadoria ou bem com Conteúdo de Importação superior a  40%
+351|Diferimento|Nacional, mercadoria ou bem com Conteúdo de Importação superior a  40%
+360|ICMS   Cobrado Anteriormente por ST|Nacional, mercadoria ou bem com Conteúdo de Importação superior a  40%
+370|Com redução de base de cálculo cobrança do ICMS por ST|Nacional, mercadoria ou bem com Conteúdo de Importação superior a  40%
+390|Outras|Nacional, cuja produção tenha sido feita em conformidade com os processos produtivos básicos
+400|Tributada integralmente|Nacional, cuja produção tenha sido feita em conformidade com os processos produtivos básicos
+410|Tributada e com cobrança do ICMS por ST|Nacional, cuja produção tenha sido feita em conformidade com os processos produtivos básicos
+420|Com redução de base de cálculo|Nacional, cuja produção tenha sido feita em conformidade com os processos produtivos básicos
+430|Isenta/Não tributada e com cobrança do ICMS por ST|Nacional, cuja produção tenha sido feita em conformidade com os processos produtivos básicos
+440|Isenta |Nacional, cuja produção tenha sido feita em conformidade com os processos produtivos básicos
+441|Não Tributada|Nacional, cuja produção tenha sido feita em conformidade com os processos produtivos básicos
+450|Suspensão|Nacional, cuja produção tenha sido feita em conformidade com os processos produtivos básicos
+451|Diferimento|Nacional, cuja produção tenha sido feita em conformidade com os processos produtivos básicos
+460|ICMS   Cobrado Anteriormente por ST|Nacional, cuja produção tenha sido feita em conformidade com os processos produtivos básicos
+470|Com redução de base de cálculo cobrança do ICMS por ST|Nacional, cuja produção tenha sido feita em conformidade com os processos produtivos básicos
+490|Outras|Nacional, cuja produção tenha sido feita em conformidade com os processos produtivos básicos
+500|Tributada integralmente|Nacional, mercadoria ou bem com Conteúdo de Importação inferior ou igual a 40%
+510|Tributada e com cobrança do ICMS por ST|Nacional, mercadoria ou bem com Conteúdo de Importação inferior ou igual a 40%
+520|Com redução de base de cálculo|Nacional, mercadoria ou bem com Conteúdo de Importação inferior ou igual a 40%
+530|Isenta/Não tributada e com cobrança do ICMS por ST|Nacional, mercadoria ou bem com Conteúdo de Importação inferior ou igual a 40%
+540|Isenta |Nacional, mercadoria ou bem com Conteúdo de Importação inferior ou igual a 40%
+541|Não Tributada|Nacional, mercadoria ou bem com Conteúdo de Importação inferior ou igual a 40%
+550|Suspensão|Nacional, mercadoria ou bem com Conteúdo de Importação inferior ou igual a 40%
+551|Diferimento|Nacional, mercadoria ou bem com Conteúdo de Importação inferior ou igual a 40%
+560|ICMS   Cobrado Anteriormente por ST|Nacional, mercadoria ou bem com Conteúdo de Importação inferior ou igual a 40%
+570|Com redução de base de cálculo cobrança do ICMS por ST|Nacional, mercadoria ou bem com Conteúdo de Importação inferior ou igual a 40%
+590|Outras|Nacional, mercadoria ou bem com Conteúdo de Importação inferior ou igual a 40%
+100|Tributada integralmente|Estrangeira - Importação direta, exceto a indicada no código 6
+110|Tributada e com cobrança do ICMS por ST|Estrangeira - Importação direta, exceto a indicada no código 6
+120|Com redução de base de cálculo|Estrangeira - Importação direta, exceto a indicada no código 6
+130|Isenta/Não tributada e com cobrança do ICMS por ST|Estrangeira - Importação direta, exceto a indicada no código 6
+140|Isenta |Estrangeira - Importação direta, exceto a indicada no código 6
+141|Não Tributada|Estrangeira - Importação direta, exceto a indicada no código 6
+150|Suspensão|Estrangeira - Importação direta, exceto a indicada no código 6
+151|Diferimento|Estrangeira - Importação direta, exceto a indicada no código 6
+160|ICMS   Cobrado Anteriormente por ST|Estrangeira - Importação direta, exceto a indicada no código 6
+170|Com redução de base de cálculo cobrança do ICMS por ST|Estrangeira - Importação direta, exceto a indicada no código 6
+190|Outras|Estrangeira - Importação direta, exceto a indicada no código 6
+600|Tributada integralmente|Estrangeira - Importação direta, sem similar nacional
+610|Tributada e com cobrança do ICMS por ST|Estrangeira - Importação direta, sem similar nacional
+620|Com redução de base de cálculo|Estrangeira - Importação direta, sem similar nacional
+630|Isenta/Não tributada e com cobrança do ICMS por ST|Estrangeira - Importação direta, sem similar nacional
+640|Isenta |Estrangeira - Importação direta, sem similar nacional
+641|Não Tributada|Estrangeira - Importação direta, sem similar nacional
+650|Suspensão|Estrangeira - Importação direta, sem similar nacional
+651|Diferimento|Estrangeira - Importação direta, sem similar nacional
+660|ICMS   Cobrado Anteriormente por ST|Estrangeira - Importação direta, sem similar nacional
+670|Com redução de base de cálculo cobrança do ICMS por ST|Estrangeira - Importação direta, sem similar nacional
+690|Outras|Estrangeira - Importação direta, sem similar nacional
+200|Tributada integralmente|Estrangeira - Adquirida no mercado interno, exceto a indicada no código 7
+210|Tributada e com cobrança do ICMS por ST|Estrangeira - Adquirida no mercado interno, exceto a indicada no código 7
+220|Com redução de base de cálculo|Estrangeira - Adquirida no mercado interno, exceto a indicada no código 7
+230|Isenta/Não tributada e com cobrança do ICMS por ST|Estrangeira - Adquirida no mercado interno, exceto a indicada no código 7
+240|Isenta |Estrangeira - Adquirida no mercado interno, exceto a indicada no código 7
+241|Não Tributada|Estrangeira - Adquirida no mercado interno, exceto a indicada no código 7
+250|Suspensão|Estrangeira - Adquirida no mercado interno, exceto a indicada no código 7
+251|Diferimento|Estrangeira - Adquirida no mercado interno, exceto a indicada no código 7
+260|ICMS   Cobrado Anteriormente por ST|Estrangeira - Adquirida no mercado interno, exceto a indicada no código 7
+270|Com redução de base de cálculo cobrança do ICMS por ST|Estrangeira - Adquirida no mercado interno, exceto a indicada no código 7
+290|Outras|Estrangeira - Adquirida no mercado interno, exceto a indicada no código 7
+700|Tributada integralmente|Estrangeira - Adquirida no mercado interno, sem similar nacional
+710|Tributada e com cobrança do ICMS por ST|Estrangeira - Adquirida no mercado interno, sem similar nacional
+720|Com redução de base de cálculo|Estrangeira - Adquirida no mercado interno, sem similar nacional
+730|Isenta/Não tributada e com cobrança do ICMS por ST|Estrangeira - Adquirida no mercado interno, sem similar nacional
+740|Isenta |Estrangeira - Adquirida no mercado interno, sem similar nacional
+741|Não Tributada|Estrangeira - Adquirida no mercado interno, sem similar nacional
+750|Suspensão|Estrangeira - Adquirida no mercado interno, sem similar nacional
+751|Diferimento|Estrangeira - Adquirida no mercado interno, sem similar nacional
+760|ICMS   Cobrado Anteriormente por ST|Estrangeira - Adquirida no mercado interno, sem similar nacional
+770|Com redução de base de cálculo cobrança do ICMS por ST|Estrangeira - Adquirida no mercado interno, sem similar nacional
+790|Outras|Estrangeira - Adquirida no mercado interno, sem similar nacional
+1000|Tributacao integral produtos importados|Produtos importados

@@ -1,0 +1,120 @@
+2;6;600;acesso a retagauarda de vendas
+2;6;601;acesso a gerar pedido
+2;6;602;acesso a gerar orçamento
+2;6;603;acesso a gerar devolucao
+2;6;604;acesso a consultar davs
+2;6;605;acesso a imprimir davs emitidos
+2;6;606;acesso a imprimir orçamentos emitidos
+2;6;607;enviar e-mail de dav emitido
+2;6;608;enviar e-mail de orçamento emitido
+2;6;609;editar orçamento
+2;6;610;transformar orçamento em pedido
+2;6;611;transformar pedido em orçamento
+2;6;612;copiar pedido
+2;6;613;permissão para desconto
+2;6;614;permissão para acrescimo
+2;6;615;permissao para frete
+2;6;616;reempressão de davs emitidos
+2;6;617;cadastrar cliente no ato da compra
+2;6;618;editar cliente no ato da compra
+6;6;600;acesso a retagauarda de vendas
+6;6;601;acesso a gerar pedido
+6;6;602;acesso a gerar orçamento
+6;6;603;acesso a gerar devolucao
+6;6;604;acesso a consultar davs
+6;6;605;acesso a imprimir davs emitidos
+6;6;606;acesso a imprimir orçamentos emitidos
+6;6;607;enviar e-mail de dav emitido
+6;6;608;enviar e-mail de orçamento emitido
+6;6;609;editar orçamento
+6;6;610;transformar orçamento em pedido
+6;6;611;transformar pedido em orçamento
+6;6;612;copiar pedido
+6;6;613;permissão para desconto
+6;6;614;permissão para acrescimo
+6;6;615;permissao para frete
+6;6;616;reempressão de davs emitidos
+6;6;617;cadastrar cliente no ato da compra
+6;6;618;editar cliente no ato da compra
+3;1;100;acesso ao modulo
+3;1;102;excluir o clinte (cadastro)
+3;1;103;Incluir Refencias
+3;1;104;cadastrar e editar clientes 
+3;3;300;acesso ao modulo
+3;3;301;ocorrencia de recebimento
+3;3;302;extrato do cliente
+3;3;303;consulta cliente
+3;3;304;extorno de recebimento
+3;3;305;conta corrente
+3;3;306;credito conta correte
+3;3;307;debito conta corrente
+3;3;308;impressao conta corrente
+3;3;309;baixar e desmenbrar titulos
+3;3;310;liquidar titulos
+3;3;311;desconto titulo
+3;3;312;acrescimo título
+3;4;401;lançamento manual de contas
+3;4;402;editar conta lançada
+3;5;501;reemprimir davs
+3;5;502;reemprimir NFE
+3;5;503;recebimento de dav
+3;5;504;emissão de NFE
+3;5;505;Menu do Caixa
+3;5;506;Relatorio de vendas
+3;5;507;Nota Fiscal Eletrônica
+3;5;508;Cancelamento de NFE
+3;5;509;Sangria 
+3;5;510;Cancelamento/Estorno de CUPOM FISCAL
+3;5;511;ocorrencia de recebimento
+3;5;512;extrato do cliente
+3;5;513;Acesso ao conta corrente no caixa
+3;5;514;lançamento Crédito/Debito no conta corrente no caixa
+3;5;515;acesso ao contas a receber (visualização)
+3;5;516;Vincular cliente ao pedido
+5;1;100;acesso ao modulo
+5;1;104;cadastrar e editar clientes 
+5;3;305;conta corrente
+5;3;306;credito conta correte
+5;3;307;debito conta corrente
+5;3;308;impressao conta corrente
+5;3;309;baixar e desmenbrar titulos
+5;5;501;reemprimir davs
+5;5;502;reemprimir NFE
+5;5;503;recebimento de dav
+5;5;504;emissão de NFE
+5;5;505;Menu do Caixa
+5;5;506;Relatorio de vendas
+5;5;507;Nota Fiscal Eletrônica
+5;5;508;Cancelamento de NFE
+5;5;509;Sangria 
+5;5;510;Cancelamento/Estorno de CUPOM FISCAL
+5;5;511;ocorrencia de recebimento
+5;5;512;extrato do cliente
+5;5;513;Acesso ao conta corrente no caixa
+5;5;514;lançamento Crédito/Debito no conta corrente no caixa
+5;5;515;acesso ao contas a receber (visualização)
+5;5;516;Vincular cliente ao pedido
+4;2;200;cadastrar produto
+4;2;201;Definir impressora expedição
+4;2;202;editar produto
+4;2;202;alterar preço de venda do produto
+4;2;202;alterar código fiscal
+4;4;401;lançamento manual de contas
+4;4;402;editar conta lançada
+4;9;900;acesso ao cadastrod e fornecedores
+4;9;901;inserir e editar cadastro de fornecedores
+4;10;1000;cadastrar e editar transportadora
+4;11;1100;acesso contro de compras
+4;11;1101;cancelamento de pedido (compra)
+4;11;1102;cancelamento de orçamento(prepedido)
+4;11;1103;cancelamento de rma
+4;11;1104;cancelamento de RMA
+4;11;1105;emissão de NFE
+4;11;1106;envio de pedido de compra por email
+4;11;1107;acesso a entrar/saida nfe
+4;11;1108;emissão de pedido de compra
+4;11;1109;emissão de devolução de nfe
+4;11;1110;emissão de transferência
+4;11;1111;emissao de orçamento/prepedido
+4;11;1112;emissão de pedido de acerto de estoque
+7;7;700;acesso ao checaute

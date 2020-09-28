@@ -1,0 +1,271 @@
+2;1;100;acesso ao modulo
+2;1;102;excluir o clinte (cadastro)
+2;1;103;Incluir Refencias
+2;1;104;cadastrar e editar clientes
+2;2;200;Acesso ao cadastro de produtos
+2;2;201;Definir impressora expedicao
+2;2;202;editar descricao do produto
+2;2;203;alterar preco de venda do produto
+2;2;204;alterar codigo fiscal
+2;2;205;acesso ao modulo produtos
+2;2;206;acesso controle de compras
+2;2;207;cancelamento de pedido (compra)
+2;2;208;cancelamento de orcamento(prepedido)
+2;2;209;cancelamento de Acertos-Transferencias Origem-Destino
+2;2;210;cancelamento de RMA
+2;2;211;emissao de NFE de RMA
+2;2;212;envio de pedido de compra por email
+"2;2;213;acesso a entrar/saida nfe ( Compras,Orcamentos, Transferencias )"
+2;2;214;emissao de pedido de compra
+2;2;215;emissao de devolucao de nfe
+2;2;216;emissao de transferencia
+2;2;217;emissao de orcamento/prepedido
+2;2;218;emissao de pedido de acerto de estoque
+2;2;219;editar margem do produto
+2;2;220;editar preco de custo do produto
+2;2;221;editar tabela de precos 2 a 6
+2;2;222;editar o produto por completo
+2;2;223;alterar o estoque fisico direto no produto SEM REGISTRO
+2;3;300;acesso ao modulo contas a receber
+2;3;301;ocorrencia de recebimento
+2;3;302;extrato do cliente
+2;3;303;consulta cliente
+2;3;304;estorno de recebimento
+2;3;305;conta corrente
+2;3;306;credito conta correte
+2;3;307;debito conta corrente
+2;3;308;impressao conta corrente
+2;3;309;baixar e desmembrar titulos
+2;3;310;liquidar titulos
+2;3;311;desconto titulo
+2;3;312;acrescimo titulo
+2;5;500;Acesso ao caixa
+2;5;501;reemprimir davs
+2;5;502;reemprimir NFE
+2;5;503;recebimento de dav
+2;5;504;emissao de NFE
+2;5;505;Menu do Caixa
+2;5;506;Relatorio de vendas
+2;5;507;Menu Analisar e Margens do Davs Selecionado
+2;5;508;Cancelamento de NFE
+2;5;509;Sangria
+2;5;510;Cancelamento/Estorno de CUPOM FISCAL
+2;5;511;ocorrencia de recebimento
+2;5;512;extrato do cliente
+2;5;513;Acesso ao conta corrente no caixa
+2;5;514;lancamento Credito/Debito no conta corrente no caixa
+2;5;515;acesso ao contas a receber (visualizacao)
+2;5;516;Vincular cliente ao pedido
+2;5;517;Gerenciador de NFe-NFCe
+2;6;600;acesso a retagauarda de vendas
+2;6;601;acesso a gerar pedido
+2;6;602;acesso a gerar orcamento
+2;6;603;acesso a gerar devolucao
+2;6;604;acesso a consultar davs
+2;6;605;acesso a imprimir davs emitidos
+2;6;606;acesso a imprimir orcamentos emitidos
+2;6;607;enviar e-mail de dav emitido
+2;6;608;enviar e-mail de orcamento emitido
+2;6;609;acesso a gerar pedido de entregas futuras
+2;6;610;transformar orcamento em pedido e pedidos em orcamento
+2;6;612;;Importar pedidos-orcamentos
+2;6;613;permissao para desconto
+2;6;614;permissao para acrescimo
+2;6;615;permissao para frete
+2;6;616;reempressao de davs emitidos
+2;6;617;cadastrar cliente no ato da compra
+2;6;618;editar cliente no ato da compra
+2;8;800;Acesso a Expedicao
+2;8;801;Editar romaneio
+2;8;802;Apagar romaneio
+2;9;900;acesso ao cadastro de fornecedores
+2;9;901;inserir e editar cadastro de fornecedores
+2;13;1300;acesso cadastro de fretes
+2;13;1302;Incluir-Editar tabela frete
+2;13;1303;Excluir tabela de frete
+2;70;770;autorizacao remota
+3;3;300;acesso ao modulo contas a receber
+3;3;301;ocorrencia de recebimento
+3;3;302;extrato do cliente
+3;3;303;consulta cliente
+3;3;304;estorno de recebimento
+3;3;305;conta corrente
+3;3;306;credito conta correte
+3;3;307;debito conta corrente
+3;3;308;impressao conta corrente
+3;3;309;baixar e desmembrar titulos
+3;3;310;liquidar titulos
+3;3;311;desconto titulo
+3;3;312;acrescimo titulo
+3;4;400;acesso ao contas apagar
+3;4;401;lancamento manual de contas
+3;4;402;editar conta lancada
+3;4;403;Nao Usado o 400 ja e o acesso
+3;4;404;Nao Usado Lancamento Manual ja inclui
+3;4;405;Apagar titulos no contas a pagar
+"3;4;406;Baixar titulos no contas a pagar, Liquidar"
+3;4;407;Extornar titulos no contas a pagar
+3;5;500;Acesso ao caixa
+3;5;501;reemprimir davs
+3;5;502;reemprimir NFE
+3;5;503;recebimento de dav
+3;5;504;emissao de NFE
+3;5;505;Menu do Caixa
+3;5;506;Relatorio de vendas
+3;5;507;Menu Analisar e Margens do Davs Selecionado
+3;5;508;Cancelamento de NFE
+3;5;509;Sangria
+3;5;510;Cancelamento/Estorno de CUPOM FISCAL
+3;5;511;ocorrencia de recebimento
+3;5;512;extrato do cliente
+3;5;513;Acesso ao conta corrente no caixa
+3;5;514;lancamento Credito/Debito no conta corrente no caixa
+3;5;515;acesso ao contas a receber (visualizacao)
+3;5;516;Vincular cliente ao pedido
+3;5;517;Gerenciador de NFe-NFCe
+3;14;1400;acesso ao plano de contas
+3;14;1401;inserir conta no plano de contas
+3;14;1402;editar plano de contas
+3;14;1403;Excluir Contas
+4;2;200;Acesso ao cadastro de produtos
+4;2;201;Definir impressora expedicao
+4;2;202;editar descricao do produto
+4;2;203;alterar preco de venda do produto
+4;2;204;alterar codigo fiscal
+4;2;205;acesso ao modulo produtos
+4;2;206;acesso controle de compras
+4;2;207;cancelamento de pedido (compra)
+4;2;208;cancelamento de orcamento(prepedido)
+4;2;209;cancelamento de Acertos-Transferencias Origem-Destino
+4;2;210;cancelamento de RMA
+4;2;211;emissao de NFE de RMA
+4;2;212;envio de pedido de compra por email
+"4;2;213;acesso a entrar/saida nfe ( Compras,Orcamentos, Transferencias )"
+4;2;214;emissao de pedido de compra
+4;2;215;emissao de devolucao de nfe
+4;2;216;emissao de transferencia
+4;2;217;emissao de orcamento/prepedido
+4;2;218;emissao de pedido de acerto de estoque
+4;2;219;editar margem do produto
+4;2;220;editar preco de custo do produto
+4;2;221;editar tabela de precos 2 a 6
+4;2;222;editar o produto por completo
+4;2;223;alterar o estoque fisico direto no produto SEM REGISTRO
+4;9;900;acesso ao cadastro de fornecedores
+4;9;901;inserir e editar cadastro de fornecedores
+5;1;100;acesso ao modulo clientes
+5;1;102;excluir o cliente (cadastro)
+5;1;103;Incluir Refencias
+5;1;104;cadastrar e editar clientes
+5;5;500;Acesso ao caixa
+5;5;501;reemprimir davs
+5;5;502;reemprimir NFE
+5;5;503;recebimento de dav
+5;5;504;emissao de NFE
+5;5;505;Menu do Caixa
+5;5;506;Relatorio de vendas
+5;5;507;Menu Analisar e Margens do Davs Selecionado
+5;5;508;Cancelamento de NFE
+5;5;509;Sangria
+5;5;510;Cancelamento/Estorno de CUPOM FISCAL
+5;5;511;ocorrencia de recebimento
+5;5;512;extrato do cliente
+5;5;513;Acesso ao conta corrente no caixa
+5;5;514;lancamento Credito/Debito no conta corrente no caixa
+5;5;515;acesso ao contas a receber (visualizacao)
+5;5;516;Vincular cliente ao pedido
+5;5;517;Gerenciador de NFe-NFCe
+5;5;3;300;acesso ao modulo
+5;5;3;301;ocorrencia de recebimento
+5;5;3;302;extrato do cliente
+5;5;3;303;consulta cliente
+5;5;3;304;estorno de recebimento
+5;5;3;305;conta corrente
+5;5;3;306;credito conta correte
+5;5;3;307;debito conta corrente
+5;5;3;308;impressao conta corrente
+5;3;309;baixar e desmenbrar titulos
+5;3;310;liquidar titulos
+5;3;311;desconto titulo
+5;3;312;acrescimo titulo
+6;6;600;acesso a retagauarda de vendas
+6;6;601;acesso a gerar pedido
+6;6;602;acesso a gerar orcamento
+6;6;603;acesso a gerar devolucao6;
+6;6;604;acesso a consultar davs
+6;6;605;acesso a imprimir davs emitidos
+6;6;606;acesso a imprimir orcamentos emitidos
+6;6;607;enviar e-mail de dav emitido
+6;6;608;enviar e-mail de orcamento emitido
+6;6;609;acesso a gerar pedido de entregas futuras
+6;6;610;transformar orcamento em pedido e pedidos em orcamento
+6;6;612;Importar pedidos-orcamentos
+6;6;613;permissao para desconto
+6;6;614;permissao para acrescimo
+6;6;615;permissao para frete
+6;6;616;reempressao de davs emitidos
+6;6;617;cadastrar cliente no ato da compra
+6;6;618;editar cliente no ato da compra
+8;1;100;acesso ao modulo clientes
+8;1;102;excluir o cliente (cadastro)
+8;1;103;Incluir Refencias
+8;1;104;cadastrar e editar clientes
+8;5;500;Acesso ao caixa
+8;5;501;reemprimir davs
+8;5;502;reemprimir NFE
+8;5;503;recebimento de dav
+8;5;504;emissao de NFE
+8;5;505;Menu do Caixa
+8;5;506;Relatorio de vendas
+8;5;507;Menu Analisar e Margens do Davs Selecionado
+8;5;508;Cancelamento de NFE
+8;5;509;Sangria
+8;5;510;Cancelamento/Estorno de CUPOM FISCAL
+8;5;511;ocorrencia de recebimento
+8;5;512;extrato do cliente
+8;5;513;Acesso ao conta corrente no caixa
+8;5;514;lancamento Credito/Debito no conta corrente no caixa
+8;5;515;acesso ao contas a receber (visualizacao)
+8;5;516;Vincular cliente ao pedido
+8;5;517;Gerenciador de NFe-NFCe
+8;6;600;acesso a retagauarda de vendas
+8;6;601;acesso a gerar pedido
+8;6;602;acesso a gerar orcamento
+8;6;603;acesso a gerar devolucao
+8;6;604;acesso a consultar davs
+8;6;605;acesso a imprimir davs emitidos
+8;6;606;acesso a imprimir orcamentos emitidos
+8;6;607;enviar e-mail de dav emitido
+8;6;608;enviar e-mail de orcamento emitido
+8;6;609;acesso a gerar pedido de entregas futuras
+8;6;610;transformar orcamento em pedido e pedidos em orcamento
+8;6;612;Importar pedidos-orcamentos
+8;6;613;permissao para desconto
+8;6;614;permissao para acrescimo
+8;6;615;permissao para frete
+8;6;616;reempressao de davs emitidos
+8;6;617;cadastrar cliente no ato da compra
+8;6;618;editar cliente no ato da compra
+8;8;800;Acesso a Expedicao
+8;8;801;Editar romaneio
+8;8;802;Apagar romaneio
+8;9;900;acesso ao cadastro de fornecedores
+8;9;901;inserir e editar cadastro de fornecedores
+9;5;500;Acesso ao caixa
+9;5;501;reemprimir davs
+9;5;502;reemprimir NFE
+9;5;503;recebimento de dav
+9;5;504;emissao de NFE
+9;5;505;Menu do Caixa
+9;5;506;Relatorio de vendas
+9;5;507;Menu Analisar e Margens do Davs Selecionado
+9;5;508;Cancelamento de NFE
+9;5;509;Sangria
+9;5;510;Cancelamento/Estorno de CUPOM FISCAL
+9;5;511;ocorrencia de recebimento
+9;5;512;extrato do cliente
+9;5;513;Acesso ao conta corrente no caixa
+9;5;514;lancamento Credito/Debito no conta corrente no caixa
+9;5;515;acesso ao contas a receber (visualizacao)
+9;5;516;Vincular cliente ao pedido
+9;5;517;Gerenciador de NFe-NFCe

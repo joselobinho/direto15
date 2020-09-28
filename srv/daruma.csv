@@ -1,0 +1,36 @@
+0|Erro
+-1|Erro encontrado na execução do método
+-2|Chave Inválida
+-3|Falha no schema XML
+-4|XML fora do padrão
+-5|Erro genérico
+-6|Nota já cadastrada na base de dados
+-8|Usuário não Autorizado
+-9|Usuário não Licenciado
+-10|Documento e Ambiente não identificados
+-13|Tipo de Documento não identificado
+-14|Erro retornado pelo WebService
+-24|Erro ao gerar PDF
+-27|Não foi possível comunicar com a impressora não fiscal
+-34|Valor Total já foi pago
+-35|Desconto/ Acréscimo não pode ser igual ou maior que o valor total
+-40|Tag xml não encontrada
+-49|Impressora com pouco papel
+-50|Impressora OFF-LINE
+-51|Impressora sem papel
+-52|Erro ao gravar em arquivo temporário
+-99|Parâmetros inválidos ou ponteiro nulo de parâmetro
+-103|Não foram encontradas as DLLs auxiliares (WS_Framework.dll e GNE_Framework.dll)
+-108|O valor da Nota obriga a Identificação do Cliente
+-109|Chave IDE\indPres com preenchimento incorreto
+-120|Encontrada tag inválida
+-121|Estrutura Invalida
+-122|Tag obrigatória não foi informada
+-123|Tag obrigatória não tem valor preenchido
+-130|NFCe já aberta
+-131|NFCe não aberta
+-132|NFCe não em fase de venda
+-133|NFCe não em fase de totalização
+-134|NFCe não em fase de pagamento
+-135|NFCe não em fase de encerramento
+-213|Erro, impressora configurada não é Daruma

@@ -1,0 +1,141 @@
+1;100;acesso ao modulo clientes
+1;102;excluir o cliente (cadastro)
+1;103;Incluir Referencias
+1;104;cadastrar e editar clientes
+2;200;Acesso ao cadastro de produtos
+2;201;Definir impressora expedicao
+2;202;editar descricao do produto
+2;203;alterar preco de venda do produto
+2;204;alterar codigo fiscal primario
+2;205;acesso ao modulo produtos
+2;206;acesso controle de compras
+2;207;cancelamento de pedido (compra)
+2;208;cancelamento de orcamento(prepedido)
+2;209;cancelamento de Acertos-Transferencias Origem-Destino
+2;210;cancelamento de RMA
+2;211;emissao de NFE de RMA
+2;212;envio de pedido de compra por email
+2;213;acesso a entrar/saida nfe ( Compras,Orcamentos, Transferencias )
+2;214;emissao de pedido de compra
+2;215;emissao de devolucao de nfe
+2;216;emissao de transferencia
+2;217;emissao de orcamento/prepedido
+2;218;emissao de pedido de acerto de estoque
+2;219;editar margem do produto
+2;220;editar preco de custo do produto
+2;221;editar tabela de precos 2 a 6
+2;222;editar o produto por completo
+2;223;alterar o estoque fisico direto no produto SEM REGISTRO
+2;224;inserir imagem no cadastro do produto
+2;225;botao salvar imagem
+2;226;cadastrar codigo fiscal Normal
+2;227;cadastrar codigo fiscal NFCE
+2;228;Ajustes de Codigos Fiscais p/Grupos,Sub-Grupos
+2;229;Recuperacao do Arquivo de Ajustes de Cpdigos Fiscais
+2;230;Incluir alterar descricao das tabelas de precos
+2;231;Eliminar registros marcados p/serem apagados definitivamente
+2;232;Replicar filial(s) no estoque fisico na inclusao-alteracao do produto
+2;233;Marcar produtos para dar descontos e para nao dar descontos
+2;234;Ajuste de produtos para alterar p/acrescimo-desconto
+2;235;Recuperacao do bando de dados de produtos, precos  e margens, codigos fiscais, toto o cadastro
+2;236;Varrer codigos fiscais dos produtos e atualizar a tabela do codigo fiscal
+2;237;Acesso ao gerenciador de grupos,sub-grupos, fabricantes, enderecos
+2;238;Fazer copia do produto selecionado para uma filial remota
+2;239;Acesso ao modulo de gerenciamento do estoque fisico das filiais e produtos
+2;240;Pode marcar opcao: permissao para vender negativo
+3;300;acesso ao modulo contas a receber
+3;301;ocorrencia de recebimento
+3;302;extrato do cliente
+3;303;consulta cliente
+3;304;estorno de recebimento
+3;305;conta corrente
+3;306;credito conta correte
+3;307;debito conta corrente
+3;308;impressao conta corrente
+3;309;baixar e desmembrar titulos
+3;310;liquidar titulos
+3;311;desconto titulo
+3;312;acrescimo titulo
+3;313;Permitir liquidacao de titulos em carteira
+3;314;Nao exigir informacoes p/pagamentos com cheques
+4;400;acesso ao contas apagar
+4;401;lancamento manual de contas
+4;402;editar conta lancada
+4;403;Nao Usado o 400 ja e o acesso
+4;404;Nao Usado Lancamento Manual ja inclui
+4;405;Apagar titulos no contas a pagar
+4;406;Baixar titulos no contas a pagar, Liquidar
+4;407;Extornar titulos no contas a pagar
+5;500;Acesso ao caixa
+5;501;reimprimir davs
+5;502;reimprimir NFE
+5;503;recebimento de dav
+5;504;emissao de NFE
+5;505;Menu do Caixa
+5;506;Relatorio de vendas
+5;507;Menu Analisar e Margens do Davs Selecionado
+5;508;Cancelamento de NFE
+5;509;Sangria
+5;510;Cancelamento/Estorno de CUPOM FISCAL
+5;511;ocorrencia de recebimento
+5;512;extrato do cliente
+5;513;Acesso ao conta corrente no caixa
+5;514;lancamento Credito/Debito no conta corrente no caixa
+5;515;acesso ao contas a receber (visualizacao)
+5;516;Vincular cliente ao pedido
+5;517;Gerenciador de NFe-NFCe
+5;518;Autorizar Recebimento de Devolucao
+5;519;Nota denegada: Limpar dados do pedido
+5;520;Recuperacao do XML ACBr-Plus
+5;521;Cancelamento do DAV Sem-cancelamento da NFe
+5;522;Alterar vencimento p/boleto
+5;523;Alterar vencimento p/Carteira
+5;524;Negar acesso no menu para gerenciador de relatorios
+6;600;acesso a retagauarda de vendas
+6;601;acesso a gerar pedido
+6;602;acesso a gerar orcamento
+6;603;acesso a gerar devolucao
+6;604;acesso a consultar davs
+6;605;acesso a imprimir davs emitidos
+6;606;acesso a imprimir orcamentos emitidos
+6;607;enviar e-mail de dav emitido
+6;608;enviar e-mail de orcamento emitido
+6;609;acesso a gerar pedido de entregas futuras
+6;610;transformar orcamento em pedido e pedidos em orcamento
+6;612;Importar pedidos-orcamentos
+6;613;permissao para desconto
+6;614;permissao para acrescimo
+6;615;permissao para frete
+6;616;reimpressao de davs emitidos
+6;617;cadastrar cliente no ato da compra
+6;618;editar cliente no ato da compra
+6;619;Alterar fantasia e nome do cliente
+6;620;Permissssao de alteracao de preco dos produtos
+6;621;Seleciona tabelas p/ajustar precos [ Permissssao para alteracao de precos de todos os produtos atraves das tabelas de 1-6]
+6;622;Incluir,alterar endereços de entrega
+6;623;Bloqueio de acesso ao extrato do cliente
+8;800;Acesso a Expedicao
+8;801;Editar romaneio
+8;802;Apagar romaneio
+8;803;Expedicao: Retirada de Material de Outras Filiais/Parceiros
+9;900;acesso ao cadastro de fornecedores
+9;901;inserir e editar cadastro de fornecedores
+9;902;Nao exigir cpf-cnpj p/inclusao do fornecedor
+9;903;Cadastro de unidade de manejo florestal
+12;1200;configuracoes do sistema
+12;1202;configuracoes do sistema empresa
+12;1203;configuracoes do sistema usuarios
+12;1204;configuracoes do sistema formas de pagamentos-ECFs
+12;1205;configuracoes do sistema impressoras
+12;1206;configuracoes do sistema codigo fiscal
+12;1207;configuracoes do sistema modulos-perfil
+12;1208;configuracoes do sistema backup manual
+12;1209;configuracoes do sistema backup on-line
+13;1300;acesso cadastro de fretes
+13;1302;Incluir-Editar tabela frete
+13;1303;Excluir tabela de frete
+14;1400;acesso ao plano de contas
+14;1401;inserir conta no plano de contas
+14;1402;editar plano de contas
+14;1403;Excluir Contas
+70;770;autorizacao remota
